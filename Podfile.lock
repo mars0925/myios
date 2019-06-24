@@ -1,0 +1,20 @@
+PODS:
+  - MaterialControls (1.2.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - MaterialControls
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MaterialControls
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  MaterialControls: 1c6b29e78d3a13d8dd6a67ed31b6d26eb5de8f72
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: c41f3cd3ef5a7fa6f55202fb8e8f42c3ac78a656
+
+COCOAPODS: 1.7.2

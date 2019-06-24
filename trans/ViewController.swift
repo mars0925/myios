@@ -7,12 +7,17 @@
 //
 
 import UIKit
+import BaseKit
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        BaseGlobalFunction.showToast(message: "hello")
     }
 
 
